@@ -28,8 +28,8 @@ a  { text-decoration: none;}
         }
      .menu:hover,
      .menu:focus {color: #404bbf;}
- .address {font-style: normal;}
-.mail-tel {
+.address-list {font-style: normal;}
+.mailtel {
     font-family: "Roboto", sans-serif;
     font-size: 16px;
     font-weight: 400;
@@ -37,5 +37,5 @@ a  { text-decoration: none;}
     letter-spacing: 0.02em;
     color: #434455;
     }
-.mail-tel:hover:hover,
-.mail-tel:focus {color: #404bbf;}
+.mailtel:hover:hover,
+.mailtel:focus {color: #404bbf;}
