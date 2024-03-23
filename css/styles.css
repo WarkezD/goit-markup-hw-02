@@ -93,7 +93,7 @@ color:  #2E2F42;
     font-family: "Roboto", sans-serif;
     font-size: 20px;
     font-weight: 500;
-    line-height: 1.12;
+    line-height: 1.2;
     letter-spacing: 0.02em;
     text-align: center;
     color: #2E2F42;
@@ -102,9 +102,24 @@ color:  #2E2F42;
     font-family: "Roboto", sans-serif;
     font-size: 16px;
     font-weight: 400;
-    line-height: 1.12;
+    line-height: 1.5;
     letter-spacing: 0.02em;
     text-align: center;
     color: #434455;
 }
 .back {background-color: #ffffff;}
+.ground {background-color: #2e2f42;}
+.studi {font-family: "Raleway", sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #f4f4fd}
+    .parag {
+        font-size: 16px;
+        font-weight: 400;
+        line-height: 24px;
+        letter-spacing: 0.02em;
+        text-align: left;
+        }
