@@ -41,25 +41,22 @@ a  { text-decoration: none;}
 .mailtel:focus {color: #404bbf;}
 .solution {background-color: #2e2f42;}
 .main-solution {
+    line-height: 1.07;
     font-family: Roboto;
     font-size: 56px;
     font-weight: 700;
-    line-height: 60px;
     letter-spacing: 0.02em;
     text-align: center;
     color: #ffffff;
     }
-    .button {width: 169px;
-        height: 56px;
-        top: 428px;
-        left: 636px;
-        padding: 16px 32px 16px 32px;
-        gap: 10px;
-        border-radius: 4px 0px 0px 0px;
-        opacity: 0px;
+    .button {font-family: "Roboto", sans-serif;
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 1.5;
+        letter-spacing: 0.04em;
         background-color: #4D5AE5;
         color: #ffffff;
         cursor: pointer
         }
     .button:hover,
-    .button:focus{color: #404BBF;}
+    .button:focus{background-color: #404BBF;}
