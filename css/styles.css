@@ -83,9 +83,9 @@ a  { text-decoration: none;}
  .title{
 font-family: "Roboto", sans-serif;
 font-size: 36px;
-font-weight: 700;
-line-height: 40px;
+line-height: 1.11;
 letter-spacing: 0.02em;
+text-transform: capitalize;
 text-align: center;
 color:  #2E2F42;
  }
@@ -106,5 +106,5 @@ color:  #2E2F42;
     letter-spacing: 0.02em;
     text-align: center;
     color: #2E2F42;
-    }
-    .background{background-color: #ffffff;}
+}
+.back {background-color: #ffffff;}
